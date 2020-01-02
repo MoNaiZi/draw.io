@@ -1,1 +1,37 @@
-<mxfile host="www.draw.io" modified="2020-01-01T08:49:13.436Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="GNj_jUVSNbV0x6cxa6S6" version="12.4.8" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5Zhrb5swFIZ/jT9W4hII/giEdJdu2pRu0T5NbnCBFTAzpkn263dsTAkNSS9SlXWVosi8Pr6+fnxIkB0Wm3NOqvQTi2mOLCPeIHuGLGtquvAthW0ruJbRCgnP4lYye2GR/aFa7MKaLKb1IFAwlousGoorVpZ0JQYa4Zyth2HXLB+OWpGE7gmLFcn31WUWi7RVPWva6+9olqTdyKaL25qCdMF6JXVKYrbekewI2SFnTLSlYhPSXO5dty/L99tlfnHjnn/4Wv8m34KPl5+/n7WdzZ/S5G4JnJbi2V1vg2Sx/Lm8iWeTdRRuSPYjnZ5Z2t1bkjd6w/RixbbbQRrDhupHxkXKElaSPOrVgLOmjKkcx4CnPuaCsQpEE8RfVIitPh2kEQykVBS5rm3HlAPdM+2BFeu4mjV8RY8s09RuC8ITKo4FenfGAhCUFVTwLTTkNCciux1Oj+ijmdzF9dsPBe3AE9zoprnjRt1cFZkIWVHInbDcHGYfXHEoJbKEIg95EQqmKHKQN0fYzcqqEVIOIoRtJTvId1A0R0GIvFAq/gxhT1VZyG8LEG+UdD0jgqgIiMaqFxP5Joow8qaqMUZ4hvz9QwJwVLKY0g0B72FqFeUZbAvlvfqlk2CLg3WaCbqoiDJuDXfP2JG4pVzQzTMOxb6FuhfL0Djr+8zTj+v+cjBdraWDi8F4Ide7++V/Z9B7LIP4pAx6e24AF0cAdJHnw+cwPCNtDiIou8OOLnhAWiSrAl+hPEGBJxvePxxD60/FlTXkyrJHwLJGwHJfjCv7bXCFH8lVu/yTcYX3c1vKFFiZWDSrFa3rS0bqA4xhldCiKfInEged7UxFB6RAW+IG3HkTVYhUjCuZwoYKBoLm/yg49xKSPQbOWEZ6OXCcNwFOt6qHwZmcEpxumjtuXGVlrDOSyjmHs9J4qsGhKjwi1QBwGPqZHHk1HGNTD4BlQOD0b41tvzCtV0Hi5PQkTva857Smws/zGb0mTS4WgoimHj8Bcqsd5QsGXw7+MHClS56rjoGpXHKkk3Ak2rcSrAo+vP8HsjNwL2iDDRn/Kpx0rJdzEh77/wBU3c4fKXb0Fw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-02T02:42:56.578Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="Vqo1bRBAb5ThZnqgG0Xf" version="12.4.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="812" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-17" target="yBgSW_WkdD4wECxaiYh7-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-17" value="submitComment&lt;br&gt;获取input输入，存储到newData对象里面" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="80" width="160" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-18" target="yBgSW_WkdD4wECxaiYh7-19" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-18" value="newComment&lt;br&gt;把newData对象&lt;br&gt;存储到数据库中" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-19" target="yBgSW_WkdD4wECxaiYh7-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-19" value="showCommitSuccessToast&lt;br&gt;显示发布评论成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="330" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-22" target="yBgSW_WkdD4wECxaiYh7-24" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-22" value="bindCommentData&lt;br&gt;把存储在数据库中的newData对象显示在页面上" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="430" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yBgSW_WkdD4wECxaiYh7-24" value="resetAllDefaultStatus&lt;br&gt;清空input输入框恢复初始状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="520" width="160" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
