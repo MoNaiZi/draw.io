@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-03T06:20:58.501Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="GlahTSXwyXRAgu31xp0w" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T10:44:42.878Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="17UljqSPM4jsUsnggrSD" version="12.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1023" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -51,8 +51,8 @@
         <mxCell id="PiBrV14RbeBBBDH9MjoU-2" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;storage缓存问题&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="215" width="160" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="PiBrV14RbeBBBDH9MjoU-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="215" width="160" height="90" as="geometry"/>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-4" value="修改storage&lt;br&gt;如果每一次都要初始化数据，那么对数据库的修改就会被初始值覆盖" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="212.5" width="250" height="95" as="geometry"/>
         </mxCell>
         <mxCell id="PiBrV14RbeBBBDH9MjoU-6" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="240" width="30" height="20" as="geometry"/>
