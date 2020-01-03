@@ -1,9 +1,14 @@
-<mxfile host="www.draw.io" modified="2020-01-02T10:33:20.857Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="1EHvS-Gu1J985kND4HbP" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T06:20:58.501Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="GlahTSXwyXRAgu31xp0w" version="12.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="716" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yBgSW_WkdD4wECxaiYh7-18" value="newComment&lt;br&gt;把newData对象&lt;br&gt;存储到数据库中" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="230" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -28,14 +33,32 @@
         <mxCell id="yBgSW_WkdD4wECxaiYh7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yBgSW_WkdD4wECxaiYh7-17" target="yBgSW_WkdD4wECxaiYh7-18" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ySiA1NoV-v9BFG1yjdnS-37" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ySiA1NoV-v9BFG1yjdnS-37" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="200" y="35" width="160" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="yBgSW_WkdD4wECxaiYh7-17" value="submitComment&lt;br&gt;获取input输入，存储到newData对象里面" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="ySiA1NoV-v9BFG1yjdnS-37" vertex="1">
           <mxGeometry width="160" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="ySiA1NoV-v9BFG1yjdnS-43" value="刷新页面评论就消失了" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="260" width="160" height="90" as="geometry"/>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ySiA1NoV-v9BFG1yjdnS-43" target="PiBrV14RbeBBBDH9MjoU-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySiA1NoV-v9BFG1yjdnS-43" value="刷新页面评论就消失了" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="380" y="215" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PiBrV14RbeBBBDH9MjoU-2" target="PiBrV14RbeBBBDH9MjoU-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-2" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.9) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;storage缓存问题&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="215" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="215" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-6" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="240" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PiBrV14RbeBBBDH9MjoU-7" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="240" width="30" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
