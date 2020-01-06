@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-04T10:13:46.497Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="pwrXSVOTLoHlDAQ1YvgR" version="12.4.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-06T06:00:47.213Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400" etag="CGzUNUfMYL1AS4rcQxey" version="12.4.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1110" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -64,23 +64,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2mKD5tIEhAQd5p-pSGYm" name="newComment">
-    <mxGraphModel dx="1110" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="E-BvpLdOgxKO-9e_v36I-0"/>
         <mxCell id="E-BvpLdOgxKO-9e_v36I-1" parent="E-BvpLdOgxKO-9e_v36I-0"/>
-        <mxCell id="eUTzUaCQ-I6BzRufIjKg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="E-BvpLdOgxKO-9e_v36I-1" source="g1hiBnt0GiOXUWoma1-d-1" target="eUTzUaCQ-I6BzRufIjKg-5">
+        <mxCell id="eUTzUaCQ-I6BzRufIjKg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="E-BvpLdOgxKO-9e_v36I-1" source="g1hiBnt0GiOXUWoma1-d-1" target="eUTzUaCQ-I6BzRufIjKg-5" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="g1hiBnt0GiOXUWoma1-d-1" value="newComment函数&lt;br&gt;负责把输入值存储到缓存库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E-BvpLdOgxKO-9e_v36I-1">
+        <mxCell id="g1hiBnt0GiOXUWoma1-d-1" value="dbPost.newComment函数&lt;br&gt;负责把输入值存储到缓存库" style="rounded=1;whiteSpace=wrap;html=1;" parent="E-BvpLdOgxKO-9e_v36I-1" vertex="1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="eUTzUaCQ-I6BzRufIjKg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="E-BvpLdOgxKO-9e_v36I-1" source="eUTzUaCQ-I6BzRufIjKg-5" target="eUTzUaCQ-I6BzRufIjKg-8">
+        <mxCell id="eUTzUaCQ-I6BzRufIjKg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="E-BvpLdOgxKO-9e_v36I-1" source="eUTzUaCQ-I6BzRufIjKg-5" target="eUTzUaCQ-I6BzRufIjKg-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="eUTzUaCQ-I6BzRufIjKg-5" value="newCommen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="E-BvpLdOgxKO-9e_v36I-1">
+        <mxCell id="eUTzUaCQ-I6BzRufIjKg-5" value="newCommen" style="rhombus;whiteSpace=wrap;html=1;" parent="E-BvpLdOgxKO-9e_v36I-1" vertex="1">
           <mxGeometry x="435" y="270" width="110" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="eUTzUaCQ-I6BzRufIjKg-8" value="DBpost" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="E-BvpLdOgxKO-9e_v36I-1">
+        <mxCell id="eUTzUaCQ-I6BzRufIjKg-8" value="DBpost" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="E-BvpLdOgxKO-9e_v36I-1" vertex="1">
           <mxGeometry x="450" y="380" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
